@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to Career Exploration!
 
-You can use the [editor on GitHub](https://github.com/Mphan6139/Fall_2021_SAAS_CX/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+SAAS is really lucky to have such bright and passionate members in the club. Our course is meant to introduce the core concepts needed to perform data analytics at a professional level. This guide is meant to inform you about how the club will work 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Getting Set Up
 
-### Markdown
+Go to https://datahub.berkeley.edu/ to log into your datahub. Datahub is where you will do the most of your work. This way, you do not need to download anything locally. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Log into your Berkeley email. This should look like when you log into your Calcentral. Congratulations, you have logged into your Datahub! For lecture notebooks we release, we highly recommend you do them in Datahub.
+
+### Assignments
+
+The most important step of working through the notebooks is getting the notebooks in the environment in the first place. To do so, simply upload the .zip file.  
+
+![upload](upload.png)
+
+Once uploaded, you can extract the files from the notebook via the terminal. To open the terminal, go to the new tab and click on the terminal option.
+
+
+![terminal](terminal.png)
+
+Then, in the terminal, use the unzip command to unzip the .zip folder
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+unzip Lecture1_Datahub.zip
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mphan6139/Fall_2021_SAAS_CX/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Find the .ipynb files for the lecture by navigating into the uncompressed folder. Now, you are done! You are now officially ready to do the lecture assignments on Datahub.  
