@@ -12,12 +12,12 @@ Log into your Berkeley email. This should look like when you log into your Calce
 
 The most important step of working through the notebooks is getting the notebooks in the environment in the first place. To do so, simply upload the .zip file.  
 
-![upload](upload.png)
+![upload](https://github.com/Mphan6139/Fall_2021_SAAS_CX/blob/d119748f1e10ef6f65eb7ce065e94aae504aa5f1/docs/upload.PNG)
 
 Once uploaded, you can extract the files from the notebook via the terminal. To open the terminal, go to the new tab and click on the terminal option.
 
 
-![terminal](terminal.png)
+![terminal](https://github.com/Mphan6139/Fall_2021_SAAS_CX/blob/d119748f1e10ef6f65eb7ce065e94aae504aa5f1/docs/terminal.PNG)
 
 Then, in the terminal, use the unzip command to unzip the .zip folder
 
