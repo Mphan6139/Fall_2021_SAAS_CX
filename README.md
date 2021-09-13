@@ -5,27 +5,14 @@ Collection of materials created by the SAAS Education Committee for the purpose 
 
 Each semester in Career Exploration, we cover a wide breadth of topics. This semester, we go over:
 
-1. Intro to Datahub and Jupyter
-2. Python
-3. Numpy/Pandas
-4. Visualizations
-5. Intro to Linear Algebra and Linear Regression
-6. Intro to Machine Learning
-7. The Bias Variance Tradeoff, Regularization
-8. Data Cleaning and Exploratory Data Analysis
-9. Decision Trees, Random Forest, Boosting
-10. Neural Networks
-11. Advanced Topics
+1 Software and Logistics
+2 Python 
+3 Numpy/Pandas
+4 Visualizations and Linear Regression
+5 Statistics for Data Science
+6 Intro to Linear Algebra for Data Science
+7 Application of Math + Stats(Simple Linear Regression)
+8 Application of Math + Stats(continued)
+9 Classification, logistic regression 
+10 Decision Trees, Random Forest, KNN
 
-## Steps to download from Slack and unzip on Datahub.      
-1. Make sure you are in the slack workspace, navigate to the cx-sp20 channel 
-2. Download the LectureX.zip file\n",
-3. Open datahub at http://datahub.berkeley.edu/ and log in with your berkeley account
-4. Click upload at the top right
-5. Upload LectureX.zip (X represents the lecture number, for example Lecture1.zip)
-6. Select 'new' at the top right of the datahub screen, and select terminal from the drop down
-7. Enter unzip LectureX.zip
-    * `unzip LectureX.zip`
-8. Open the LectureX folder and open the ipynb file inside the LectureX folder
-
-Our main source of file sharing will be uploading to slack. Remember to upload the entire zip file to Datahub and unzip.
