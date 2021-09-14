@@ -6,7 +6,7 @@ SAAS is really lucky to have such bright and passionate members in the club. Our
 
 Go to https://datahub.berkeley.edu/ to log into your datahub. Datahub is where you will do the most of your work. This way, you do not need to download anything locally. 
 
-Log into your Berkeley email. This should look like when you log into your Calcentral. Congratulations, you have logged into your Datahub! For lecture notebooks we release, we highly recommend you do them in Datahub.
+Log into your Berkeley email. This should look like when you log into your Calcentral. Congratulations, you have logged into your Datahub! For lecture notebooks we release, we highly recommend you do them in Datahub!
 
 ### Assignments
 
