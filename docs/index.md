@@ -6,18 +6,18 @@ SAAS is really lucky to have such bright and passionate members in the club. Our
 
 Go to https://datahub.berkeley.edu/ to log into your datahub. Datahub is where you will do the most of your work. This way, you do not need to download anything locally. 
 
-Log into your Berkeley email. This should look like when you log into your Calcentral. Congratulations, you have logged into your Datahub! For lecture notebooks we release, we highly recommend you do them in Datahub!
+Log into your Berkeley email. This should look like when you log into your Calcentral. Congratulations, you have logged into your Datahub! For lecture notebooks we release, we highly recommend you do them in Datahub.
 
 ### Assignments
 
 The most important step of working through the notebooks is getting the notebooks in the environment in the first place. To do so, simply upload the .zip file.  
 
-<div><img src="https://github.com/Mphan6139/Fall_2021_SAAS_CX/blob/c5035cade178fab67fc95c47b217737b1fc23941/docs/upload.PNG" class="img-responsive" alt=""> </div>
+<div><img src="upload.PNG" class="img-responsive" alt=""> </div>
 
 
 Once uploaded, you can extract the files from the notebook via the terminal. To open the terminal, go to the new tab and click on the terminal option.
 
-<div><img src="https://github.com/Mphan6139/Fall_2021_SAAS_CX/blob/c5035cade178fab67fc95c47b217737b1fc23941/docs/terminal.PNG" class="img-responsive" alt=""> </div>
+<div><img src="terminal.PNG" class="img-responsive" alt=""> </div>
 
 Then, in the terminal, use the unzip command to unzip the .zip folder
 
