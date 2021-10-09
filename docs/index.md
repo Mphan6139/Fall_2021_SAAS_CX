@@ -26,7 +26,7 @@ Then, in the terminal, use the unzip command to unzip the .zip folder
 ls 
 #change directory to (Name of folder). Do this until you see the .zip file in your ls
 cd (Name of folder)
-
+#unzip the .zip file containing the lecture materials.
 unzip Lecture1_Datahub.zip
 ```
 
