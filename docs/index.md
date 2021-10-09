@@ -22,6 +22,11 @@ Once uploaded, you can extract the files from the notebook via the terminal. To 
 Then, in the terminal, use the unzip command to unzip the .zip folder
 
 ```markdown
+#Lists all files and folders in your current working directory(folder)
+ls 
+#change directory to (Name of folder). Do this until you see the .zip file in your ls
+cd (Name of folder)
+
 unzip Lecture1_Datahub.zip
 ```
 
